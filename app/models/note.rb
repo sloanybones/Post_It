@@ -1,0 +1,8 @@
+class Note < ApplicationRecord
+
+  
+
+
+
+
+end
